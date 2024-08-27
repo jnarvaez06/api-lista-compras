@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|c:\\users\\julian\\source\\repos\\apilistacompras\\apilistacompras\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|solutionrelative:apilistacompras\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|c:\\users\\julian\\source\\repos\\apilistacompras\\apilistacompras\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|solutionrelative:apilistacompras\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|c:\\users\\julian\\source\\repos\\apilistacompras\\apilistacompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|solutionrelative:apilistacompras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|c:\\users\\julian\\source\\repos\\apilistacompras\\apilistacompras\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|solutionrelative:apilistacompras\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|c:\\users\\julian\\source\\repos\\apilistacompras\\apilistacompras\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|solutionrelative:apilistacompras\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|c:\\users\\julian\\source\\repos\\apilistacompras\\apilistacompras\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|solutionrelative:apilistacompras\\repository\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|c:\\users\\julian\\source\\repos\\apilistacompras\\apilistacompras\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|solutionrelative:apilistacompras\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|c:\\users\\julian\\source\\repos\\apilistacompras\\apilistacompras\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AB0ED5-F37C-453F-A902-F53C2F1CE027}|ApiListaCompras\\ApiListaCompras.csproj|solutionrelative:apilistacompras\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 159,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ApiListaCompras\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Repository\\IRepository.cs",
+              "RelativeToolTip": "ApiListaCompras\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:41:07.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Repository\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "ApiListaCompras\\Repository\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Repository\\ItemRepository.cs",
+              "RelativeToolTip": "ApiListaCompras\\Repository\\ItemRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:54:11.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Services\\ICommonService.cs",
+              "RelativeDocumentMoniker": "ApiListaCompras\\Services\\ICommonService.cs",
+              "ToolTip": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Services\\ICommonService.cs",
+              "RelativeToolTip": "ApiListaCompras\\Services\\ICommonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:52:35.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "ApiListaCompras\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Services\\ItemService.cs",
+              "RelativeToolTip": "ApiListaCompras\\Services\\ItemService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:37:36.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "ApiListaCompras\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "ApiListaCompras\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T02:48:28.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiListaCompras\\appsettings.json",
+              "ToolTip": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\appsettings.json",
+              "RelativeToolTip": "ApiListaCompras\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T00:53:51.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ApiListaCompras\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Models\\Item.cs",
+              "RelativeToolTip": "ApiListaCompras\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:43:21.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Program.cs",
+              "RelativeDocumentMoniker": "ApiListaCompras\\Program.cs",
+              "ToolTip": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\Program.cs",
+              "RelativeToolTip": "ApiListaCompras\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T00:36:03.308Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
