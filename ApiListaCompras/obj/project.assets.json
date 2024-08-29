@@ -2789,11 +2789,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\ApiListaCompras.csproj",
+      "projectUniqueName": "E:\\.NetProjects\\Projects\\ApiListaCompras\\ApiListaCompras\\ApiListaCompras.csproj",
       "projectName": "ApiListaCompras",
-      "projectPath": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\ApiListaCompras.csproj",
+      "projectPath": "E:\\.NetProjects\\Projects\\ApiListaCompras\\ApiListaCompras\\ApiListaCompras.csproj",
       "packagesPath": "C:\\Users\\Julian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\obj\\",
+      "outputPath": "E:\\.NetProjects\\Projects\\ApiListaCompras\\ApiListaCompras\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Julian\\AppData\\Roaming\\NuGet\\NuGet.Config",

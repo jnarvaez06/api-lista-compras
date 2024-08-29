@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vaquz4ns3vk=",
+  "dgSpecHash": "Xz4A487T5JI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Julian\\source\\repos\\ApiListaCompras\\ApiListaCompras\\ApiListaCompras.csproj",
+  "projectFilePath": "E:\\.NetProjects\\Projects\\ApiListaCompras\\ApiListaCompras\\ApiListaCompras.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julian\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Julian\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
