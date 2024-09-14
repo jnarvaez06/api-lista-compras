@@ -37,7 +37,7 @@ builder.Services.AddCors(options =>
         {
             builder.WithOrigins("http://localhost:5173", 
                                 "http://localhost:3000",
-                                "http://ec2-18-232-157-87.compute-1.amazonaws.com")
+                                "http://ec2-18-232-157-87.compute-1.amazonaws.com:3000")
                    .AllowAnyHeader()
                    .AllowAnyMethod();
         });
